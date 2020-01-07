@@ -1,0 +1,14 @@
+title=Pappu Pakia
+major_version=1
+minor_version=0
+build_version=0
+mm_icon_focus_hd=pkg:/images/asset/icon_focus_hd.png
+mm_icon_focus_sd=pkg:/images/asset/icon_focus_sd.png
+network_not_required=1
+splash_screen_fhd=pkg:/images/asset/splash_fhd.jpg
+splash_screen_hd=pkg:/images/asset/splash_hd.jpg
+splash_screen_sd=pkg:/images/asset/splash_sd.jpg
+splash_color=#000000
+splash_min_time=0
+ui_resolutions=HD
+game=1
