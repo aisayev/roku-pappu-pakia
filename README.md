@@ -3,7 +3,8 @@
 Roku Pappu Pakia game (BrightScript).
 
 
-You can istall it from [Roku Channel Store](https://channelstore.roku.com/en-ot/details/575459/pappu-pakia).
+You can istall it from [Roku Channel Store](https://channelstore.roku.com/en-ot/details/575459/pappu-pakia)
+or [https://my.roku.com/add/pappupakia](https://my.roku.com/add/pappupakia).
 
 
 ![Roku Pappu Pakia](https://github.com/aisayev/roku-pappu-pakia/blob/master/screenshot/screenshot1.jpg)
